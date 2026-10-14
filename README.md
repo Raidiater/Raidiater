@@ -1,11 +1,11 @@
 # Hello, I'm Raid Islam
 <a href="https://www.linkedin.com/in/raid-islam-8504b3338/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a Computing & Security Technology student at Drexel University (class of 2029) with a growing focus on defensive security. I'm building hands-on SOC skills through labs, a cybersecurity certificate, and co-op experience in a healthcare IT environment. I document what I learn in public in the repos below.
+I'm a Computing & Security Technology student at Drexel University (class of 2029) with a growing focus on defensive security. I'm building hands-on SOC skills through labs, a cybersecurity certificate, and co-op experience in an IT environment. I document what I learn in public in the repos below.
 
 ## Objective
 
-I'm aiming for a Security Operations Center (SOC) Tier 1 Analyst role, starting with a security-focused co-op in 2027. My long-term goal is automotive cybersecurity.
+I'm currently on an IT co-op and working toward a SOC Tier 1 Analyst role, with a security-focused co-op as my next step in 2027. My long-term goal is automotive cybersecurity.
 
 ## Skills
 
